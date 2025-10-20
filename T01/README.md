@@ -19,6 +19,7 @@ Heu de redactar un informe que justifiqui tècnicament la decisió de la Direcci
 - La funció crucial d'un gestor de contrasenyes per mitigar aquests riscos.
 
 
+
 2. Comparativa Tècnica: Realitzeu una taula comparativa detallada entre:
 
 - Bitwarden (Alternativa Online / Núvol): Analitzeu la sincronització, el model de seguretat (xifratge end-to-end), la facilitat d'accés des de múltiples dispositius i el cost/model freemium.
