@@ -12,13 +12,13 @@ Com a resposta a aquesta crisi, la Direcció Tècnica ha emès una directriu: to
 
 Heu de redactar un informe que justifiqui tècnicament la decisió de la Direcció i comparin les opcions. Aquest informe ha d'incloure:
 
-   1. Introducció i Justificació:
+1. Introducció i Justificació:
 
 - Explicació de per què les contrasenyes febles o reutilitzades són un risc crític per a l'empresa (atac de diccionari, credential stuffing, etc.).
 
 - La funció crucial d'un gestor de contrasenyes per mitigar aquests riscos.
 
-   2. Comparativa Tècnica: Realitzeu una taula comparativa detallada entre:
+2. Comparativa Tècnica: Realitzeu una taula comparativa detallada entre:
 
 - Bitwarden (Alternativa Online / Núvol): Analitzeu la sincronització, el model de seguretat (xifratge end-to-end), la facilitat d'accés des de múltiples dispositius i el cost/model freemium.
 
