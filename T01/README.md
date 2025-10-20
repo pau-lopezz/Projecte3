@@ -69,3 +69,11 @@ Pàgina oficial de [Bitwarden](https://bitwarden.com/)
 Pàgina oficial de [KeePassXc](https://keepassxc.org/)
 
 INCIBE: [Gestores de contraseñas: qué son y cómo pueden mejorar la seguridad de las empresas](https://www.incibe.es/empresas/blog/gestores-de-contrasenas-que-son-y-como-pueden-mejorar-la-seguridad-de-las-empresas)
+
+---
+
+## Solució
+
+Teniu la solució en l'arxiu del següent enllaç : [Solució](solucio.md)
+  
+[← Tornar a la pàgina del projecte](../README.md)
