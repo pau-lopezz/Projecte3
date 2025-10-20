@@ -64,8 +64,8 @@ Materials i links de suport
 
 INCIBE: [Gestión de contraseñas seguras.](https://www.incibe.es/ciudadania/tematicas/contrasenas-seguras)
 
-Pàgina oficial de Bitwarden.
+Pàgina oficial de [Bitwarden](https://bitwarden.com/)
 
-Pàgina oficial de KeePassXc
+Pàgina oficial de [KeePassXc](https://keepassxc.org/)
 
-INCIBE: Gestores de contraseñas: qué son y cómo pueden mejorar la seguridad de las empresas
+INCIBE: [Gestores de contraseñas: qué son y cómo pueden mejorar la seguridad de las empresas](https://www.incibe.es/empresas/blog/gestores-de-contrasenas-que-son-y-como-pueden-mejorar-la-seguridad-de-las-empresas)
