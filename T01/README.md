@@ -57,3 +57,15 @@ La guia ha de cobrir els següents punts obligatoris:
 - Recomanació de la millor pràctica per emmagatzemar aquesta còpia de seguretat de forma segura (clau USB xifrada o emmagatzematge xifrat al núvol).
 
 Es tracta d’una tasca individual. Què caldrà lliurar? Dins el repositori del projecte-3 heu de crear una carpeta anomenada tasca01, dins d’ella heu de tenir un arxiu README.md amb la descripció de la tasca i enllaços als arxius de l’informe i la guia. L’informe corresponent a la fase 1, el lliurareu amb un arxiu que anomenareu informe.md, mentre que la guia s’anomenarà guia.md. És important que les imatges que inclogui la guia estiguin a dins una carpeta específica (img, pics, etc.)
+
+---
+
+Materials i links de suport
+
+INCIBE: [Gestión de contraseñas seguras.](https://www.incibe.es/ciudadania/tematicas/contrasenas-seguras)
+
+Pàgina oficial de Bitwarden.
+
+Pàgina oficial de KeePassXc
+
+INCIBE: Gestores de contraseñas: qué son y cómo pueden mejorar la seguridad de las empresas
