@@ -18,13 +18,16 @@ Heu de redactar un informe que justifiqui tècnicament la decisió de la Direcci
 
 - La funció crucial d'un gestor de contrasenyes per mitigar aquests riscos.
 
+
 2. Comparativa Tècnica: Realitzeu una taula comparativa detallada entre:
 
 - Bitwarden (Alternativa Online / Núvol): Analitzeu la sincronització, el model de seguretat (xifratge end-to-end), la facilitat d'accés des de múltiples dispositius i el cost/model freemium.
 
 - KeePassX / KeePassXC (Alternativa Offline / Escriptori): Analitzeu l'emmagatzematge local de l'arxiu (KDBX), la independència del núvol, el model open source i la portabilitat de l'arxiu.
 
+
 3. Avantatges i Inconvenients: Resumiu els principals pros i contres de cada model (online vs. offline) des del punt de vista de seguretat, usabilitat i continuïtat del negoci.
+
 
 4. Recomanació: Concloeu l'informe escollint l'eina que considereu més adequada per al personal tècnic de l'empresa i justifiqueu la vostra elecció.
 ---
