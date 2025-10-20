@@ -28,7 +28,6 @@ Heu de redactar un informe que justifiqui tècnicament la decisió de la Direcci
 ### 3. Avantatges i Inconvenients: 
 Resumiu els principals pros i contres de cada model (online vs. offline) des del punt de vista de seguretat, usabilitat i continuïtat del negoci.
 
-
 ### 4. Recomanació: 
 Concloeu l'informe escollint l'eina que considereu més adequada per al personal tècnic de l'empresa i justifiqueu la vostra elecció.
 
