@@ -14,6 +14,6 @@
 | **Implementació** | Entorn local | Basat en el núvol / Entorn local |
 | **Sense connexió** | Accés sense connexió | Només lectura |
 | **Preu** | Gratuït | Gratuït |
-| **Codi Obert** | ✅ | ✅ |
-| **2FA** | ✅ | ✅ |
-| **E2EE** | ✅ | ✅ |
+| **Codi Obert** |    ✅ |    ✅    |
+| **2FA** |    ✅ |    ✅ |
+| **E2EE** |    ✅ |    ✅ |
