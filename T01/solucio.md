@@ -45,7 +45,7 @@ Punts febles:
 - Usabilitat: Alguns usuaris han reportat problemes amb la interfície d'usuari en escriptoris i la integració amb formularis web complexos.
 - Continuïtat del negoci: Algunes funcionalitats avançades estan disponibles només en la versió de pagament, i la dependència de servidors externs pot implicar riscos si fallen.
 
-
+---
 
 ### Recomanació
 Recomano utilitzar Bitwarden perquè:
