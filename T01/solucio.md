@@ -32,7 +32,7 @@ Punts febles:
 - Usabilitat: No disposa d'integració nativa amb navegadors ni aplicacions mòbils oficials; requereix plugins o ports no oficials.
 - Continuïtat del negoci: La sincronització entre dispositius requereix configuració manual i pot ser difícil de gestionar en entorns empresarials amb múltiples usuaris o dispositius.
 
----
+
 
 ### 🔐 Bitwarden
 Punts forts:
@@ -45,7 +45,7 @@ Punts febles:
 - Usabilitat: Alguns usuaris han reportat problemes amb la interfície d'usuari en escriptoris i la integració amb formularis web complexos.
 - Continuïtat del negoci: Algunes funcionalitats avançades estan disponibles només en la versió de pagament, i la dependència de servidors externs pot implicar riscos si fallen.
 
----
+
 
 ### Recomanació
 Recomano utilitzar Bitwarden perquè:
