@@ -26,7 +26,9 @@ Punts forts:
 - Usabilitat: Aplicació nativa per a Windows amb una interfície senzilla però antiquada.
 - Continuïtat del negoci: Funciona localment sense necessitat de connexió a Internet, permetent un control total sobre les dades.
 
+
 Punts febles:
+
 -Seguretat: La configuració de l'autenticació multifactor (2FA) requereix plugins i pot ser complexa per a usuaris poc tècnics.
 - Usabilitat: No disposa d'integració nativa amb navegadors ni aplicacions mòbils oficials; requereix plugins o ports no oficials.
 - Continuïtat del negoci: La sincronització entre dispositius requereix configuració manual i pot ser difícil de gestionar en entorns empresarials amb múltiples usuaris o dispositius.
