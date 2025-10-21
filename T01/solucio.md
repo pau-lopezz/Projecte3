@@ -44,3 +44,23 @@ Punts febles:
 - Seguretat: Algunes funcions avançades només disponibles en la versió de pagament.
 - Usabilitat: Alguns usuaris han reportat problemes amb la interfície d'usuari en escriptoris i la integració amb formularis web complexos.
 - Continuïtat del negoci: Algunes funcionalitats avançades estan disponibles només en la versió de pagament, i la dependència de servidors externs pot implicar riscos si fallen.
+
+---
+
+### Recomanació
+Recomano utilitzar Bitwarden perquè:
+
+Ofereix una millor experiència d’ús gràcies a la sincronització automàtica entre dispositius, facilitant la gestió de contrasenyes en equips amb diversos usuaris.
+
+Incorpora funcions avançades de seguretat, com l’autenticació multifactor amb diverses opcions, que garanteixen una protecció robusta per a l’empresa.
+
+Permet compartir contrasenyes de manera segura, cosa que millora la col·laboració entre el personal tècnic.
+
+Tot i que KeePassX és segur i funciona sense connexió, la seva configuració i sincronització poden ser més difícils i menys pràctiques en entorns professionals.
+
+Per aquests motius, considero que Bitwarden és l’eina més adequada per al nostre equip tècnic.
+
+---
+
+## Fase 2: Guia d'Ús Tècnica  
+
