@@ -38,7 +38,7 @@ Punts forts:
 - Usabilitat: Aplicacions oficials per a Windows, macOS, Linux, iOS i Android, amb extensió per a navegadors, i sincronització automàtica entre dispositius.
 - Continuïtat del negoci: Ofereix opcions de compartició de contrasenyes, accés d'emergència i capacitat d'autohostatge per a empreses, amb plans de subscripció assequibles.
 
-Punts febles:
+Punts febles: 
 - Seguretat: Algunes funcions avançades només disponibles en la versió de pagament.
 - Usabilitat: Alguns usuaris han reportat problemes amb la interfície d'usuari en escriptoris i la integració amb formularis web complexos.
 - Continuïtat del negoci: Algunes funcionalitats avançades estan disponibles només en la versió de pagament, i la dependència de servidors externs pot implicar riscos si fallen.
