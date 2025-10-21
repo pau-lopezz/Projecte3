@@ -8,7 +8,7 @@
 
 
 ### Comparativa Tècnica
-|  | KeePassX | Bitwarden |
+|  | **KeePassX** | **Bitwarden** |
 | :---- | ----- | ----- |
 | **Ideal per** | Tots els que necessiten administrar moltes contrasenyes | Dissenyat per usuaris, grups i equips que necessiten protegir i compartir contrasenyes per protegir les seves dades privats empresarials. |
 | **Implementació** | Entorn local | Basat en el núvol / Entorn local |
