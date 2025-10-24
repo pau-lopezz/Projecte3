@@ -9,6 +9,7 @@ El DNS és com una gran guia telefònica d’internet: tradueix noms de domini f
 La seva estructura és jeràrquica i en forma d’arbre:
 
 . (Root)
+ 
  ├── .com       (TLD - Top Level Domain)
  │     ├── digicore.com     (Domini de segon nivell)
  │           ├── www.digicore.com
