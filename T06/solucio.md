@@ -8,15 +8,14 @@
 El DNS és com una gran guia telefònica d’internet: tradueix noms de domini fàcils d’entendre (com www.digicore.com) a adreces IP que els ordinadors utilitzen per comunicar-se (192.168.3.25, per exemple).
 La seva estructura és jeràrquica i en forma d’arbre:
 
-. (Root)
- 
- ├── .com       (TLD - Top Level Domain)
- │     ├── digicore.com     (Domini de segon nivell)
- │           ├── www.digicore.com
- │           ├── mail.digicore.com
- │           └── ftp.digicore.com
- ├── .org
- └── .net
+- **. (Root)**
+  - **.com** (TLD - Top Level Domain)
+    - **digicore.com** (Domini de segon nivell)
+      - `www.digicore.com`
+      - `mail.digicore.com`
+      - `ftp.digicore.com`
+  - **.org**
+  - **.net**
 
 - Root Servers: hi ha 13 conjunts de servidors arrel al món que són el punt de partida de totes les consultes DNS.
 
