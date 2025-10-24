@@ -70,3 +70,10 @@ Finalment es vol comprovar el funcionament de la resolució local, útil per ent
 
 Activitat de la Fase Pràctica: Crear un document guia.md del resultats i anàlisi que inclogui les captures de les 5 comandes anteriors i les explicacions relacionades.
 
+---
+
+## Solució
+
+Teniu la solució en l'arxiu del següent enllaç : [Solució](solucio.md)
+  
+[← Tornar a la pàgina del projecte](../README.md)
