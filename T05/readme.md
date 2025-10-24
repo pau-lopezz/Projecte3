@@ -1,4 +1,4 @@
-# T05: Anàlisi de l’entorn: possibles models de negoci pels clients tecnològics de la consultoria
+## T05: Anàlisi de l’entorn: possibles models de negoci pels clients tecnològics de la consultoria
 
 A cada parella de la classe us assignen un client diferent (empresa de pràctiques), sou els seus consultors i auditors. Aquests clients pertanyen al sector de la tecnologia i informàtic. Cada sessió de classe s’introduiran els conceptes teòrics que seran la base de l’anàlisis que us ha encarregat el vostre coordinador pel client assignat. Al final d’aquestes 4 setmanes i 8 sessions haureu de:
 
