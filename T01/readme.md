@@ -76,6 +76,6 @@ INCIBE: [Gestores de contraseñas: qué son y cómo pueden mejorar la seguridad 
 
 ## Solució
 
-Teniu la solució en l'arxiu del següent enllaç : [Solució](solucio.md)
+Teniu la solució en l'arxiu del següent enllaç : [Informe](informe.md)
   
 [← Tornar a la pàgina del projecte](../README.md)
