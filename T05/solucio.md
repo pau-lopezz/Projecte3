@@ -20,6 +20,8 @@
 **- Mediambientals**: L’interès per reduir residus i combatre el canvi climàtic impulsa el sector.
 
 **- Internacionals**: Les tendències globals i els preus de les matèries primeres poden tenir un impacte tant positiu com negatiu.
+
+
 **MICROENTORNS** 
 **- Competència**: Merkia al se una empresa que recondisiona dispositius electrònics per després vendre'ls, té varies empresas de competència. Per exemple; Media markt, ja que media markt vent dispositius electrònics tant nous com recondicionats es una gran part de la competència, pensant en la venta a particulars. I una gran competencia de venta de dispositius a empreses sería, Borax Aliban, una empresa de gran nivell a barcelona que es dedica al mateix. Link: Media Markt Link: Borax Aliban
 
