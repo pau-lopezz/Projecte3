@@ -62,4 +62,5 @@ Recomano utilitzar Bitwarden perquè:
 ## Fase 2: Guia d'Ús Tècnica  
 
 Ara, deixo per aquí la guia per a l’ús de l’eina seleccionada, amb els passos per a la instal·lació i configuració inicial, la generació de contrasenyes segures, l’emplenament automàtic de credencials i la gestió de còpies de seguretat. 
-- [➡ Guia](guia.md)
+
+➡ [Guia](guia.md)
