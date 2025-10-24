@@ -20,7 +20,7 @@
 
 
 ### Avantatges i Inconvenients
-## 🔐 KeePass
+### 🔐 KeePass
 Punts forts:
 - Seguretat: Xifratge local amb AES-256 i ChaCha20, sense dependència de servidors externs.
 - Usabilitat: Aplicació nativa per a Windows amb una interfície senzilla però antiquada.
