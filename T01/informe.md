@@ -61,3 +61,4 @@ Per aquests motius, considero que Bitwarden és l’eina més adequada per al no
 
 ## Fase 2: Guia d'Ús Tècnica  
 
+... [Guia](guia.md)
