@@ -1,7 +1,7 @@
 # Projecte 3  
 ## Introducció: EverPia 2  
 
-# 💻 **EverPia 2: “Sobreviure en una empresa IT”**  
+## 💻 **EverPia 2: “Sobreviure en una empresa IT”**  
 
 **EverPia 2** és la segona etapa del projecte, on la consultora creix, els clients augmenten i els tècnics han d’aprendre a sobreviure enmig del caos digital.  
 El primer projecte va ser un èxit; aquest és un **repte de supervivència tecnològica.** 🔥  
