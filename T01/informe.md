@@ -47,15 +47,15 @@ Punts febles:
 ### Recomanació
 Recomano utilitzar Bitwarden perquè:
 
-Ofereix una millor experiència d’ús gràcies a la sincronització automàtica entre dispositius, facilitant la gestió de contrasenyes en equips amb diversos usuaris.
+- Ofereix una millor experiència d’ús gràcies a la sincronització automàtica entre dispositius, facilitant la gestió de contrasenyes en equips amb diversos usuaris.
 
-Incorpora funcions avançades de seguretat, com l’autenticació multifactor amb diverses opcions, que garanteixen una protecció robusta per a l’empresa.
+- Incorpora funcions avançades de seguretat, com l’autenticació multifactor amb diverses opcions, que garanteixen una protecció robusta per a l’empresa.
 
-Permet compartir contrasenyes de manera segura, cosa que millora la col·laboració entre el personal tècnic.
+- Permet compartir contrasenyes de manera segura, cosa que millora la col·laboració entre el personal tècnic.
 
-Tot i que KeePassX és segur i funciona sense connexió, la seva configuració i sincronització poden ser més difícils i menys pràctiques en entorns professionals.
+- Tot i que KeePassX és segur i funciona sense connexió, la seva configuració i sincronització poden ser més difícils i menys pràctiques en entorns professionals.
 
-Per aquests motius, considero que Bitwarden és l’eina més adequada per al nostre equip tècnic.
+- Per aquests motius, considero que Bitwarden és l’eina més adequada per al nostre equip tècnic.
 
 ---
 
