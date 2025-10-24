@@ -4,7 +4,7 @@
 
 ### 🧭 Fonaments del Servei DNS (Domain Name System)
 
-1️⃣ Jerarquia i estructura del DNS
+### 1️⃣ Jerarquia i estructura del DNS
 El DNS és com una gran guia telefònica d’internet: tradueix noms de domini fàcils d’entendre (com www.digicore.com) a adreces IP que els ordinadors utilitzen per comunicar-se (192.168.3.25, per exemple).
 La seva estructura és jeràrquica i en forma d’arbre:
 
@@ -25,7 +25,7 @@ La seva estructura és jeràrquica i en forma d’arbre:
 
 ---
 
-2️⃣ Procés de resolució de noms
+### 2️⃣ Procés de resolució de noms
 Quan un usuari escriu www.digicore.com, el sistema DNS pot treballar de dues maneres:
 🔹 Consulta iterativa
 El client (normalment el resolver del sistema operatiu) demana informació pas a pas:
@@ -40,7 +40,7 @@ Aquest servidor buscarà tota la cadena (Root → TLD → Autoritatiu) i retorna
 
 ---
 
-3️⃣ Tipus de zones DNS
+### 3️⃣ Tipus de zones DNS
 Una zona DNS és la part de l’arbre que un servidor és responsable de gestionar.
 
 - Zona directa: conté registres que associen noms de domini a IPs (ex: www → 192.168.3.25).
@@ -52,7 +52,7 @@ També hi ha:
 
 ---
 
-4️⃣ Tipus de registres DNS més comuns
+### 4️⃣ Tipus de registres DNS més comuns
 
 | Tipus | Funció | Exemple |
 |-------|---------|----------|
@@ -66,45 +66,34 @@ També hi ha:
 
 ---
 
-5️⃣ Conceptes essencials
+### 5️⃣ Conceptes essencials
 ✅ Resposta autoritativa
 Una resposta és autoritativa quan prové directament d’un servidor que conté la informació oficial del domini.
-Es pot identificar perquè el camp “AA” (Authoritative Answer) a la resposta DNS està actiu.
+- Es pot identificar perquè el camp “AA” (Authoritative Answer) a la resposta DNS està actiu.
 ⏱️ TTL (Time To Live)
 Indica quant de temps una resposta pot ser emmagatzemada en la memòria cau (cache).
  Un TTL alt redueix el trànsit DNS però fa que els canvis triguin més a propagar-se.
  Un TTL curt permet canvis ràpids, però augmenta el nombre de consultes.
 🪪 SOA (Start of Authority)
 És el registre base d’una zona DNS. Conté informació com:
-Nom del servidor primari
+- Nom del servidor primari
+- Correu electrònic de l’administrador
+- Número de sèrie (important per sincronitzar zones)
+- Valors de refresh, retry, expire i minimum TTL
 
+---
 
-Correu electrònic de l’administrador
-
-
-Número de sèrie (important per sincronitzar zones)
-
-
-Valors de refresh, retry, expire i minimum TTL
-
-
-
-6️⃣ Reenviadors (Forwarders)
+### 6️⃣ Reenviadors (Forwarders)
 Un reenviador és un servidor DNS que passa les consultes que no pot resoldre a un altre servidor.
-Incondicional: totes les consultes que no pot resoldre localment es reenvien al servidor configurat.
+- Incondicional: totes les consultes que no pot resoldre localment es reenvien al servidor configurat.
+- Condicional: només es reenvien les consultes d’un domini concret (ex: reenviar només .digicore.local al servidor intern de DigiCore).
 
-
-Condicional: només es reenvien les consultes d’un domini concret (ex: reenviar només .digicore.local al servidor intern de DigiCore).
-
-
+--- 
 
 7️⃣ Resolució local i mDNS
 Quan no hi ha un servidor DNS, els equips poden resoldre noms localment:
-Fitxer hosts del sistema (manual).
-
-
-Protocol mDNS (Multicast DNS): usat en xarxes locals (com les d’oficina o domèstiques) per descobrir dispositius automàticament sense servidor.
- Exemple: printer.local, laptop.local.
+- Fitxer hosts del sistema (manual).
+- Protocol mDNS (Multicast DNS): usat en xarxes locals (com les d’oficina o domèstiques) per descobrir dispositius automàticament sense servidor. Exemple: printer.local, laptop.local.
 
 
 Aquest protocol forma part de la tecnologia Bonjour / Zeroconf utilitzada per dispositius Apple i altres.
