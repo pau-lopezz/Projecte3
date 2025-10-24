@@ -1,3 +1,7 @@
+## Guia d'Ús Tècnica 
+
+### [Bitwarden](https://bitwarden.com/)
+
 1. Instal·lació i Configuració Inicial: Descàrrega, instal·lació i creació de la BBDD principal o compte mestre.
    
 2. Generació de Contrasenyes Segures: Explicació de com utilitzar el generador de contrasenyes de l'eina (paràmetres, longitud, caràcters especials).
