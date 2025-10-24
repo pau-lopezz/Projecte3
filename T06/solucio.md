@@ -90,7 +90,7 @@ Un reenviador és un servidor DNS que passa les consultes que no pot resoldre a 
 
 --- 
 
-7️⃣ Resolució local i mDNS
+### 7️⃣ Resolució local i mDNS
 Quan no hi ha un servidor DNS, els equips poden resoldre noms localment:
 - Fitxer hosts del sistema (manual).
 - Protocol mDNS (Multicast DNS): usat en xarxes locals (com les d’oficina o domèstiques) per descobrir dispositius automàticament sense servidor. Exemple: printer.local, laptop.local.
