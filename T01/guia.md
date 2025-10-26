@@ -124,10 +124,10 @@ Desa amb “Save”.
 #### 4.2. Bones Pràctiques d’Emmagatzematge
 
 Opció recomanada:
-- Desa la còpia en una clau USB xifrada (BitLocker o VeraCrypt).
+- Desa la còpia en una clau USB xifrada.
 
 Alternativa:
-- Desa-la en un núvol segur amb xifratge de punt a punt, com p. ex. ProtonDrive o tresorit.
+- Desa-la en un núvol segur amb xifratge.
 
 Mai guardis la còpia de seguretat sense xifrar al mateix dispositiu on tens Bitwarden instal·lat.
 
