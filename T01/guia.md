@@ -14,8 +14,8 @@
 
 - Segueix l’assistent fins a completar la instal·lació.
 
-IMATGE 1 📸 Afegeix captura: img1 – pàgina de descàrrega
-IMATGE 2 📸 Afegeix captura: img2 – assistent d’instal·lació
+![Pàgina de descàrrega](./IMG/img01.png)
+![Assistent d'instal·lació](./IMG/img02.png) 
 
 
 #### 1.2. Creació del Compte Mestre
@@ -33,8 +33,8 @@ IMATGE 2 📸 Afegeix captura: img2 – assistent d’instal·lació
 
 - Inicia sessió amb les teves noves credencials.
 
-📸 Afegeix captura: img3 – formulari de creació de compte
-📸 Afegeix captura: img4 – panell principal després d’iniciar sessió
+![Formulari](./IMG/img03.png)
+![Panell principal](./IMG/img04.png)
 
 ---
    
@@ -46,7 +46,7 @@ IMATGE 2 📸 Afegeix captura: img2 – assistent d’instal·lació
 
 - Selecciona l’opció “Password Generator”.
 
-📸 Afegeix captura: img5 – generador de contrasenyes
+![Generador](./IMG/img05.png)
 
 
 #### 2.2. Configuració dels Paràmetres
@@ -61,7 +61,7 @@ IMATGE 2 📸 Afegeix captura: img2 – assistent d’instal·lació
 
 Quan estigui configurat, prem “Copy” per copiar la contrasenya segura i enganxar-la on vulguis.
 
-📸 Afegeix captura: img6 – configuració del generador
+![Configuració](./IMG/img06.png)
 
 ---
    
@@ -79,7 +79,7 @@ Quan estigui configurat, prem “Copy” per copiar la contrasenya segura i enga
 
 Desa amb “Save”.
 
-📸 Afegeix captura: img7 – formulari de nova credencial  
+![Formulaci de nova credencial](./IMG/img07.png)
 
 #### 3.2. Desar una Credencial d’una Aplicació o Servei Web
  
@@ -89,7 +89,7 @@ Desa amb “Save”.
 
 - Afegeix el camp “Notes” per indicar informació addicional (per ex., departament o data d’actualització).
 
-📸 Afegeix captura: img8 – credencial d’una app   - Com fer servir l’extensió del navegador per emplenar automàticament les dades.
+![Credencial](./IMG/img08.png)
 
 #### 3.3. Ús de l’Extensió del Navegador
 
@@ -101,8 +101,9 @@ Desa amb “Save”.
 
 - Fes clic per emplenar automàticament usuari i contrasenya.
 
-📸 Afegeix captura: img9 – extensió al navegador
-📸 Afegeix captura: img10 – emplenament automàtic en acció
+![Extensió](./IMG/img09.png)
+
+![Automatic](./IMG/img10.png)
 
 ---
    
@@ -118,8 +119,7 @@ Desa amb “Save”.
 
 - Desa l’arxiu de còpia de seguretat.
 
-📸 Afegeix captura: img11 – exportació de dades
-
+![Exportació](./IMG/img11.png)
 
 #### 4.2. Bones Pràctiques d’Emmagatzematge
 
@@ -131,5 +131,5 @@ Alternativa:
 
 Mai guardis la còpia de seguretat sense xifrar al mateix dispositiu on tens Bitwarden instal·lat.
 
-📸 Afegeix captura: img12 – USB xifrat o emmagatzematge segur
+![USB xifrat](./IMG/img12.png)
 
