@@ -93,7 +93,7 @@ Desa amb “Save”.
 
 #### 3.3. Ús de l’Extensió del Navegador
 
-- Instal·la l’extensió des de la (Chrome Web Store)[https://bitwarden.com/download/#browser] 
+- Instal·la l’extensió des de la [Chrome Web Store](https://bitwarden.com/download/#browser)
 
 - Inicia sessió amb el compte Bitwarden.
 
