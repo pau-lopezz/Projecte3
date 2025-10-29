@@ -7,7 +7,7 @@ Actualment, cada servei intern (servidor de fitxers, wiki de documentació, etc.
 - Risc de Seguretat: Els usuaris sovint acaben reutilitzant contrasenyes entre serveis per evitar l'oblit.
 - Manca d'Escalabilitat: A mesura que Innovatech afegeix nous serveis, el problema es fa insostenible.
 
-![openldap](../img)
+![openldap](../IMG)
 
 El CEO d’Innovatech ha contactat amb EverPia per tal d’implementar una solució d’autenticació centralitzada. La solució proposada és utilitzar OpenLDAP (Lightweight Directory Access Protocol) per ser una solució robusta i de codi obert, que s’alinea amb l’esperit d’Innovatech, ja que tots els ordinadors de l’empresa usen GNU-Linux.
 La vostra missió serà implementar el servei OpenLDAP en un servidor Linux. Això implica instal·lar el servei, configurar el domini base, crear la jerarquia d'unitats organitzatives i, finalment, integrar usuaris i grups que posteriorment s'utilitzaran per donar accés a altres serveis de xarxa. A més, configurareu un equip client per tal que utilitzi el directori per autenticar els usuaris.
