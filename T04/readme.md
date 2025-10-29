@@ -1,26 +1,28 @@
-## T04: Serveis de directori. LDAP
+# 📂 Implementació del Servei LDAP per a Entorn de Proves Innovatech
 
-Innovatech, una start-up tecnològica emergent, està experimentant un ràpid creixement i pateix un caos en la gestió dels seus usuaris i accessos.
-
-Actualment, cada servei intern (servidor de fitxers, wiki de documentació, etc.) utilitza la seva pròpia base de dades d'usuaris i contrasenyes i a més als ordinadors clients s’usa autentificació local. Això genera diversos problemes crítics:
-- Ineficiència Operativa: Cada cop que s'incorpora o marxa un empleat, l'equip tècnic ha de crear o eliminar el compte en múltiples sistemes.
-- Risc de Seguretat: Els usuaris sovint acaben reutilitzant contrasenyes entre serveis per evitar l'oblit.
-- Manca d'Escalabilitat: A mesura que Innovatech afegeix nous serveis, el problema es fa insostenible.
-
-<p align="center">
-  <img src="./IMG/openldap.png" alt="openldap" width="200">
-</p>
-
-El CEO d’Innovatech ha contactat amb EverPia per tal d’implementar una solució d’autenticació centralitzada. La solució proposada és utilitzar OpenLDAP (Lightweight Directory Access Protocol) per ser una solució robusta i de codi obert, que s’alinea amb l’esperit d’Innovatech, ja que tots els ordinadors de l’empresa usen GNU-Linux.
-
-La vostra missió serà implementar el servei OpenLDAP en un servidor Linux. Això implica instal·lar el servei, configurar el domini base, crear la jerarquia d'unitats organitzatives i, finalment, integrar usuaris i grups que posteriorment s'utilitzaran per donar accés a altres serveis de xarxa. A més, configurareu un equip client per tal que utilitzi el directori per autenticar els usuaris.
-
-S’ha redactat un document on s’especifica clarament la feina que s’ha de desenvolupar, el teniu disponible en el [plec de condicions tècniques](https://docs.google.com/document/d/1BMT080sbzxNOQ51nxsDch_-9LA1VKP5gC6OWB6l86_E/edit?tab=t.0) (també el podeu trobar al Moodle de l’assignatura).
+Aquest repositori recull tota la documentació i recursos per a la implementació d’un **servei de directori LDAP** per a l’entorn de proves d’**Innovatech**, desenvolupat per la consultora **EverPia**. L’objectiu és instal·lar i validar un servei OpenLDAP en un entorn virtualitzat basat en Ubuntu Server.
 
 ---
 
-## Solució
+## 🎯 1. Objecte de l'Encàrrec
+Instal·lació, configuració i validació d’un servei LDAP com a directori centralitzat d’usuaris i grups per al domini de proves `innovatechXX.test`.
 
-Teniu la solució en l'arxiu del següent enllaç : [Solució](solucio.md)
-  
-[← Tornar a la pàgina del projecte](../README.md)
+---
+
+## 💻 2. Requeriments d'Infraestructura Inicial
+Verificació de la infraestructura virtual abans d’iniciar la implementació.
+
+---
+
+## 🛠️ 3. Tasques d'Implementació i Configuració del Servidor LDAP
+
+### 3.1. Instal·lació i Configuració Base d'OpenLDAP
+Instal·lació i configuració del servidor LDAP i les seves unitats organitzatives inicials.
+
+### 3.2. Gestió i Administració (LAM)
+Gestió d’usuaris i grups mitjançant LAM (LDAP Account Manager).
+
+---
+
+## 🖥️ 4. Integració de Client (Client Ubuntu Desktop)
+Configuració i validació del client Ubuntu Desktop per connectar-se al servidor LDAP.
