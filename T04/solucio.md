@@ -11,6 +11,6 @@ L'objecte del present Plec és la instal·lació, configuració i validació d'u
 
 ---
 
-### [2. Requeriments d'Infraestructura Inicial](./GUIES/punt2)
+### [2. Requeriments d'Infraestructura Inicial](./GUIES/punt2.md)
 El consultor ha de verificar la correcta configuració de la infraestructura virtual abans d'iniciar la implementació
 
