@@ -13,3 +13,10 @@ El CEO d’Innovatech ha contactat amb EverPia per tal d’implementar una soluc
 La vostra missió serà implementar el servei OpenLDAP en un servidor Linux. Això implica instal·lar el servei, configurar el domini base, crear la jerarquia d'unitats organitzatives i, finalment, integrar usuaris i grups que posteriorment s'utilitzaran per donar accés a altres serveis de xarxa. A més, configurareu un equip client per tal que utilitzi el directori per autenticar els usuaris.
 S’ha redactat un document on s’especifica clarament la feina que s’ha de desenvolupar, el teniu disponible en el plec de condicions tècniques (també el podeu trobar al Moodle de l’assignatura).
 
+---
+
+## Solució
+
+Teniu la solució en l'arxiu del següent enllaç : [Solució](solucio.md)
+  
+[← Tornar a la pàgina del projecte](../README.md)
