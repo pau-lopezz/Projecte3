@@ -9,7 +9,6 @@ A través d’aquest projecte, es garanteix:
 - La **integració amb clients Ubuntu Desktop** per validar l’autenticació LDAP i la visibilitat dels usuaris  
 - La documentació completa de **scripts, comandes i configuracions** per replicar i validar l’entorn de proves  
 
-*(Nota: Substituir `XX` pel número de llista corresponent abans de l’execució.)*
 
 ---
 
