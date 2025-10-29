@@ -7,6 +7,7 @@ La investigació interna ha revelat que un dels comptes tècnics va ser comprom�
 
 Com a resposta a aquesta crisi, la Direcció Tècnica ha emès una directriu: tot el personal tècnic ha de començar a utilitzar un gestor de contrasenyes validat per garantir l'ús de credencials úniques i robustes. Se us encarrega la tasca d'avaluar les opcions i crear la documentació necessària per a la formació del personal.
 
+---
 
 ### [Fase 1: Anàlisi i Justificació (Document d'Informe)](./informe.md)
 Heu de redactar un informe que justifiqui tècnicament la decisió de la Direcció i comparin les opcions. Aquest informe ha d'incloure:
@@ -28,7 +29,7 @@ Heu de redactar un informe que justifiqui tècnicament la decisió de la Direcci
 
 ---
 
-### Fase 2: Guia d'Ús Tècnica 
+### [Fase 2: Guia d'Ús Tècnica](./guia.md)
 Utilitzant l'eina que heu seleccionat a la Fase 1 (Bitwarden, KeePassX, o similar), heu de crear una Guia d'Ús per a l'Equip Tècnic. Aquesta guia ha de ser clara i basada en captures de pantalla i instruccions pas a pas.
 
 La guia ha de cobrir els següents punts obligatoris:
@@ -47,6 +48,8 @@ La guia ha de cobrir els següents punts obligatoris:
   o emmagatzematge xifrat al núvol).
   
 Es tracta d’una tasca individual. Què caldrà lliurar? Dins el repositori del projecte-3 heu de crear una carpeta anomenada tasca01, dins d’ella heu de tenir un arxiu README.md amb la descripció de la tasca i enllaços als arxius de l’informe i la guia. L’informe corresponent a la fase 1, el lliurareu amb un arxiu que anomenareu informe.md, mentre que la guia s’anomenarà guia.md. És important que les imatges que inclogui la guia estiguin a dins una carpeta específica (img, pics, etc.)
+
+---
 
 ### Materials i links de suport
 - INCIBE: [Gestión de contraseñas seguras.](https://www.incibe.es/ciudadania/tematicas/contrasenas-seguras)
