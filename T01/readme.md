@@ -8,7 +8,7 @@ La investigació interna ha revelat que un dels comptes tècnics va ser comprom�
 Com a resposta a aquesta crisi, la Direcció Tècnica ha emès una directriu: tot el personal tècnic ha de començar a utilitzar un gestor de contrasenyes validat per garantir l'ús de credencials úniques i robustes. Se us encarrega la tasca d'avaluar les opcions i crear la documentació necessària per a la formació del personal.
 
 
-### Fase 1: Anàlisi i Justificació (Document d'Informe)
+### [Fase 1: Anàlisi i Justificació (Document d'Informe)](./informe.md)
 Heu de redactar un informe que justifiqui tècnicament la decisió de la Direcció i comparin les opcions. Aquest informe ha d'incloure:
 
 1. Introducció i Justificació:
