@@ -18,11 +18,9 @@ Per fer aquest demostració, caldrà usar un equip Zorin amb dues interfícies, 
 ![img2](./IMG/img2.png)
 
 - Anàlisi: Identifica la IP de resposta, el valor TTL i el servidor que ha respost a la consulta.
-**IP de resposta (A record associat a xtec.cat):**
-83.247.151.214
-  
-**TTL indicat al camp “ANSWER SECTION”:**
-3548 segons
-    
-**Servidor que ha respost (veure “SERVER:” al final de la sortida):**
-127.0.0.53#53 (UDP) — servidor local (systemd-resolved)
+  - **IP de resposta (A record associat a xtec.cat):**
+    83.247.151.214
+  - **TTL indicat al camp “ANSWER SECTION”:**
+    3548 segons
+  - **Servidor que ha respost (veure “SERVER:” al final de la sortida):**
+    127.0.0.53#53 (UDP) — servidor local (systemd-resolved)
