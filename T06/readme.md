@@ -7,7 +7,7 @@ L’objectiu és comprendre a fons el funcionament del DNS, formar el personal t
 ---
 
 ### 🎓 Fase Teòrica: Sessió formativa  
-*Arxiu:* [ Fase 1](./fase1.md)
+*Arxiu: * [ Fase 1](./fase1.md)
 
 Aquesta fase consisteix en la preparació d’una **sessió formativa** adreçada al personal de DigiCore.  
 L’objectiu és oferir una explicació clara i entenedora sobre com funciona el servei DNS i quins elements en determinen el rendiment i la fiabilitat.
