@@ -26,7 +26,7 @@ Activitat de la fase teòrica: un cop domineu aquests conceptes, caldrà que pas
 
 ---
 
-### Fase Pràctica: Diagnosi de Noms (Auditoria amb CLI)
+### [Fase Pràctica: Diagnosi de Noms (Auditoria amb CLI)](./fase2.md)
 
 Heu de demostrar l'ús de les principals utilitats de diagnosi DNS en els diferents sistemes operatius que utilitza el client (Linux/macOS i Windows).
 
