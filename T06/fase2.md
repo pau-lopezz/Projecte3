@@ -14,6 +14,7 @@ Per fer aquest demostració, caldrà usar un equip Zorin amb dues interfícies, 
 ### A. Diagnosi Avançada amb dig (Linux / macOS)
 - Comanda 1: Consulta Bàsica de Registre A
   - Executa dig xtec.cat A
+    
 ![img2](./IMG/img2.png)
   - Anàlisi: Identifica la IP de resposta, el valor TTL i el servidor que ha respost a la consulta.
     ```
