@@ -57,12 +57,12 @@ Per fer aquest demostració, caldrà usar un equip Zorin amb dues interfícies, 
 - Anàlisi: Quina informació sobre els registres s’obté?
 
 ``
-saladepremsa.upc.edu
-barcelonatech.upc.edu
-barcelonetech-upc.eu
-upc.cat
-upc.edu
-www.upc.es
+- saladepremsa.upc.edu
+- barcelonatech.upc.edu
+- barcelonetech-upc.eu
+- upc.cat
+- upc.edu
+- www.upc.es
 masters.upc.edu
 edicioweb.produccio.upc.edu
 ``
