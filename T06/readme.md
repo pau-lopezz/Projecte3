@@ -6,7 +6,7 @@ Se us ha encarregat realitzar una auditoria teòrica i pràctica del servei DNS 
 
 --- 
 
-### Fase teòrica: Sessió formativa
+### [Fase teòrica: Sessió formativa](./fase1.md)
 Com a part d’aquesta formació, caldrà que elaboreu un material formatiu pel personal del client. Per assegurar la màxima qualitat en els continguts, els vostres directors tècnics han preparat unes sessions prèvies, per tal que tingueu un domini dels conceptes que després haureu d’explicar.
 
 Aproximadament el conceptes que haureu d’explicar seran els següents:
