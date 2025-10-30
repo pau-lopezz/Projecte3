@@ -1,49 +1,69 @@
 ## T06: Fonaments del servei DNS
 
-Com membres cada cop més integrats de l'equip tècnic de la consultora EverPia, teniu davant un nou repte. El vostre client, una empresa de màrqueting digital (DigiCore), que experimenta de tant en tant errors de connectivitat a certes aplicacions. El seu equip tècnic creu que la causa principal podria ser una resolució de noms (DNS) incorrecta o lenta.
+Com a membres de l’equip tècnic d’EverPia, es presenta un nou repte: una auditoria completa del servei DNS per al client **DigiCore**, una empresa de màrqueting digital que experimenta errors de connectivitat en algunes de les seves aplicacions.
 
-Se us ha encarregat realitzar una auditoria teòrica i pràctica del servei DNS per tal de formar el personal del client i oferir eines de diagnosi ràpides.
-
---- 
-
-### [Fase teòrica: Sessió formativa](./fase1.md)
-Com a part d’aquesta formació, caldrà que elaboreu un material formatiu pel personal del client. Per assegurar la màxima qualitat en els continguts, els vostres directors tècnics han preparat unes sessions prèvies, per tal que tingueu un domini dels conceptes que després haureu d’explicar.
-
-Aproximadament el conceptes que haureu d’explicar seran els següents:
-
-- Jerarquia i Estructura: Explicació de l'estructura en arbre del DNS (Root > TLDs > Segon Nivell).
-- Procés de Resolució: Com es realitza una consulta iterativa i una recursiva. Què és un servidor d'arrel (Root Server) i un servidor autoritatiu.
-- Tipus de zones: Directa i inversa. Zona primària i zona secundària.
-- Tipus de Registres Clau (Records): Descripció de la funció dels registres A, CNAME, MX, NS i SVR.
-- Conceptes Essencials:
-  - Resposta Autoritativa: Què significa i com es pot identificar.
-  - Time To Live (TTL): La seva funció i impacte en la propagació i el rendiment.
-  - Start of Authority (SOA): Quina informació essencial conté i per què és crítica.
-  - Reenviadors: condicionals i incondicionals
-- Resolució local: mecanismes de resolució sense servidor entre equips clients. El protocol mDNS.
-
-Activitat de la fase teòrica: un cop domineu aquests conceptes, caldrà que passeu a l’acció i preparar la vostra píndola formativa, que consistirà en un vídeo d’entre 10 i 15 minuts, que haurà d’explicar de forma breu però clara aquests conceptes.
+L’objectiu és comprendre a fons el funcionament del DNS, formar el personal tècnic del client i disposar d’eines de diagnosi que permetin detectar i resoldre incidències de manera eficient.
 
 ---
 
-### [Fase Pràctica: Diagnosi de Noms (Auditoria amb CLI)](./fase2.md)
+### 🎓 Fase Teòrica: Sessió formativa  
+*Arxiu:* [fase1.md](./fase1.md)
 
-Heu de demostrar l'ús de les principals utilitats de diagnosi DNS en els diferents sistemes operatius que utilitza el client (Linux/macOS i Windows).
+Aquesta fase consisteix en la preparació d’una **sessió formativa** adreçada al personal de DigiCore.  
+L’objectiu és oferir una explicació clara i entenedora sobre com funciona el servei DNS i quins elements en determinen el rendiment i la fiabilitat.
 
-Per a cada eina, executeu les comandes indicades a continuació contra el domini que s’indiqui explícitament i captureu/analitzeu els resultats.
+Un cop consolidats els conceptes, s’haurà de crear una **píndola formativa en vídeo** (entre 10 i 15 minuts) que presenti els punts principals d’una manera didàctica i visual.
 
-Per fer aquest demostració, caldrà usar un equip Zorin amb dues interfícies, la primera en NAT i la segona en adaptador pont amb la IP correctament configurada segons indicacions dels vostres responsables.
+#### 📌 Conceptes que s’han de tractar
 
-#### A. Diagnosi Avançada amb dig (Linux / macOS)
+- **Jerarquia i estructura DNS**  
+  Explicació de l’organització en arbre: *Root > TLD > Domini de segon nivell*.
 
-#### Comprovació de Resolució amb nslookup (Multiplataforma)
+- **Procés de resolució**  
+  Descripció de les consultes **iteratives** i **recursives**, així com el paper dels **Root Servers** i dels **servidors autoritatius**.
 
-#### Resolucions locals
+- **Tipus de zones**  
+  Diferenciació entre *zona directa* i *zona inversa*, i entre *zona primària* i *zona secundària*.
+
+- **Tipus de registres DNS**  
+  Descripció i funció dels registres: `A`, `CNAME`, `MX`, `NS`, `SRV`.
+
+- **Conceptes essencials**
+  - **Resposta autoritativa:** què indica i com identificar-la.  
+  - **TTL (Time To Live):** com influeix en la propagació i el rendiment.  
+  - **SOA (Start of Authority):** informació que conté i importància dins d’una zona.  
+  - **Reenviadors DNS:** diferència entre condicionals i incondicionals.
+
+- **Resolució local**  
+  Funcionament de la resolució sense servidor DNS i ús del protocol **mDNS**.
+
+> 🎥 El vídeo ha d’explicar tots aquests conceptes de manera senzilla, visual i breu.
 
 ---
 
-## Solució
+### 🔧 Fase Pràctica: Diagnosi DNS amb CLI  
+*Arxiu:* [fase2.md](./fase2.md)
 
-Teniu la solució en l'arxiu del següent enllaç : [Solució](solucio.md)
-  
+En aquesta fase es posa en pràctica tot el coneixement adquirit, mitjançant l’ús d’eines de diagnosi DNS disponibles en diferents sistemes operatius (Linux/macOS i Windows).
+
+Per a cada eina cal:  
+1. Executar les comandes indicades.  
+2. Capturar la sortida obtinguda.  
+3. Analitzar els resultats i extreure’n conclusions.  
+
+> 🖥️ L’activitat es duu a terme en un equip **Zorin OS** configurat amb dues interfícies de xarxa: **NAT** i **pont**, amb la IP assignada segons les indicacions dels responsables.
+
+#### 🧪 Eines i proves incloses
+
+##### A. Diagnosi avançada amb `dig` (Linux / macOS)
+Execució de consultes DNS avançades i anàlisi detallada de les respostes.
+
+##### Comprovació de resolució amb `nslookup` (Multiplataforma)
+Verificació i contrast de resultats de resolució de noms en diferents entorns.
+
+##### Resolucions locals
+Comprovació de mecanismes de resolució sense servidor DNS i validació del funcionament de **mDNS**.
+
+---
+
 [← Tornar a la pàgina del projecte](../README.md)
