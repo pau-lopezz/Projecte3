@@ -17,7 +17,7 @@ Per fer aquest demostració, caldrà usar un equip Zorin amb dues interfícies, 
     
 ![img2](./IMG/img2.png)
 
-     - Anàlisi: Identifica la IP de resposta, el valor TTL i el servidor que ha respost a la consulta.
+- Anàlisi: Identifica la IP de resposta, el valor TTL i el servidor que ha respost a la consulta.
     **IP de resposta (A record associat a xtec.cat):**
     83.247.151.214
     **TTL indicat al camp “ANSWER SECTION”:**
