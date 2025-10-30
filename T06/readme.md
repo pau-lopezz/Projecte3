@@ -7,7 +7,7 @@ L’objectiu és comprendre a fons el funcionament del DNS, formar el personal t
 ---
 
 ### 🎓 Fase Teòrica: Sessió formativa  
-*Arxiu:* [fase1.md](./fase1.md)
+*Arxiu:* [ Fase 1](./fase1.md)
 
 Aquesta fase consisteix en la preparació d’una **sessió formativa** adreçada al personal de DigiCore.  
 L’objectiu és oferir una explicació clara i entenedora sobre com funciona el servei DNS i quins elements en determinen el rendiment i la fiabilitat.
@@ -42,7 +42,7 @@ Un cop consolidats els conceptes, s’haurà de crear una **píndola formativa e
 ---
 
 ### 🔧 Fase Pràctica: Diagnosi DNS amb CLI  
-*Arxiu:* [fase2.md](./fase2.md)
+*Arxiu:* [ Fase 2](./fase2.md)
 
 En aquesta fase es posa en pràctica tot el coneixement adquirit, mitjançant l’ús d’eines de diagnosi DNS disponibles en diferents sistemes operatius (Linux/macOS i Windows).
 
