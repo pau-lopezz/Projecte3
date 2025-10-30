@@ -2,6 +2,8 @@
 
 ### Fase teòrica: Sessió formativa
 
+> Teniu la presentació dels continguts disponible a: [Presentació](https://gamma.app/docs/Funcionament-del-Sistema-DNS-6keyp76phvzkh6h?mode=present#card-mm5tonwdo0mt52a)
+
 ### 🧭 Fonaments del Servei DNS (Domain Name System)
 
 ### 1️⃣ Jerarquia i estructura del DNS
@@ -99,6 +101,3 @@ Quan no hi ha un servidor DNS, els equips poden resoldre noms localment:
 
 
 Aquest protocol forma part de la tecnologia Bonjour / Zeroconf utilitzada per dispositius Apple i altres.
-
-
-
