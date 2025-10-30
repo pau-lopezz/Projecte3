@@ -57,11 +57,28 @@ Per fer aquest demostració, caldrà usar un equip Zorin amb dues interfícies, 
 - Anàlisi: Quina informació sobre els registres s’obté?
 
 - saladepremsa.upc.edu
-- barcelonatech.upc.edu
-- barcelonetech-upc.eu
-- upc.cat
-- upc.edu
-- www.upc.es
-- masters.upc.edu
-- edicioweb.produccio.upc.edu
+  - barcelonatech.upc.edu
+  - barcelonetech-upc.eu
+  - upc.cat
+  - upc.edu
+  - www.upc.es
+  - masters.upc.edu
+  - edicioweb.produccio.upc.edu
 
+---
+
+**Comprovació de Resolució amb nslookup (Multiplataforma)**
+L’eina nslookup es troba a pràcticament a qualsevol sistema operatiu. Es pot usar de forma similar a dig incloent l’argument o si s’executa nslookup sense arguments, entrar en el mode interactiu, us apareix un prompt (>). Serà aquest mode el que explorareu . 
+
+![img6](./IMG/img6.png)
+
+El mode és força senzill, bàsicament hi ha tres comandes a usar:
+- set type= per indicar el tipus de consulta: A, AAA, MX, NS, SOA, TXT o ALL.
+- server IP on IP és la IP del servidor de noms al que es vol fer la consulta, també es pot indicar el nom del servidor enlloc de la IP, per exemple, server a9-66.akam.net.
+- exit que serveix per sortir de la comanda.
+
+---
+
+- Comanda 1: Consulta Bàsica no Autoritativa
+  - Seleccionar type=A i com a domini de consulta tecnocampus.cat
+![img7](./IMG/img7.png)
