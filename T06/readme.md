@@ -43,7 +43,8 @@ Un cop consolidats els conceptes, s’haurà de crear una **píndola formativa e
 ---
 
 ### 🔧 Fase Pràctica: Diagnosi DNS amb CLI  
-*Arxiu:* [ Fase 2](./fase2.md)
+
+> Documentació detallada disponible a: [Fase 2](./fase2.md)
 
 En aquesta fase es posa en pràctica tot el coneixement adquirit, mitjançant l’ús d’eines de diagnosi DNS disponibles en diferents sistemes operatius (Linux/macOS i Windows).
 
