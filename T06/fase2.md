@@ -63,6 +63,6 @@ Per fer aquest demostració, caldrà usar un equip Zorin amb dues interfícies, 
 - upc.cat
 - upc.edu
 - www.upc.es
-masters.upc.edu
-edicioweb.produccio.upc.edu
+- masters.upc.edu
+- edicioweb.produccio.upc.edu
 ``
