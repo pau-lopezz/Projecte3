@@ -67,7 +67,7 @@ Per fer aquest demostració, caldrà usar un equip Zorin amb dues interfícies, 
 
 ---
 
-**Comprovació de Resolució amb nslookup (Multiplataforma)**
+### **Comprovació de Resolució amb nslookup (Multiplataforma)**
 L’eina nslookup es troba a pràcticament a qualsevol sistema operatiu. Es pot usar de forma similar a dig incloent l’argument o si s’executa nslookup sense arguments, entrar en el mode interactiu, us apareix un prompt (>). Serà aquest mode el que explorareu . 
 
 ![img6](./IMG/img6.png)
@@ -82,3 +82,25 @@ El mode és força senzill, bàsicament hi ha tres comandes a usar:
 - Comanda 1: Consulta Bàsica no Autoritativa
   - Seleccionar type=A i com a domini de consulta tecnocampus.cat
 ![img7](./IMG/img7.png)
+
+- Anàlisi: Per què indica que la resposta és no autoritativa?
+Perquè la resposta no ve directament del servidor que gestiona el domini tecnocampus.cat, sinó d’un altre servidor que només ha guardat la informació o l’ha buscat abans. En resum: no és la font principal, sinó una còpia de la informació.
+
+---
+
+- Comanda 2: Consultes autoritatives
+  - Escriure server IP i escriure la IP del primer servidor de noms del domini tecnocampus.cat que s’ha obtingut
+    d’una consulta anterior. A continuació, indiqueu que voleu consultar registres de tipus A i del domini
+    tecnocampus.cat
+![img8](./IMG/img8.png)
+
+- Anàlisi: Quines diferències s’observen a la resposta obtinguda amb la comanda 1?
+Abans sortien unes IPs i ara en surten unes altres. Això passa perquè la web utilitza diversos servidors i el DNS et pot donar una IP diferent cada vegada.
+
+---
+
+### Resolucions locals
+Finalment es vol comprovar el funcionament de la resolució local, útil per entorns de xarxa local on no es disposa de servidor de noms propi i que evita haver d’accedir a equips o recursos per la seva IP.
+![img9](./IMG/img9.png)
+
+En fer ping pau-VirtualBox, l’ordinador ha trobat el nom dins del fitxer local /etc/hosts i no ha fet servir DNS. Això confirma que la resolució local funciona.
