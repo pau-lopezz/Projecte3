@@ -56,7 +56,7 @@ Per fer aquest demostració, caldrà usar un equip Zorin amb dues interfícies, 
 
 - Anàlisi: Quina informació sobre els registres s’obté?
 
-- saladepremsa.upc.edu
+  - saladepremsa.upc.edu
   - barcelonatech.upc.edu
   - barcelonetech-upc.eu
   - upc.cat
