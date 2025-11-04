@@ -42,6 +42,7 @@ Per fer aquest demostració, caldrà usar un equip Zorin amb dues interfícies, 
 
 - Comanda 3: Consulta Detallada SOA
   - Executa dig escolapia.cat SOA
+    
 ![img4](./IMG/img4.png)
 
 - Anàlisi: Quina és la informació del correu de l'administrador i el número de sèrie del domini?
