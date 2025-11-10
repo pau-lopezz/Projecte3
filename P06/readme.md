@@ -7,6 +7,6 @@ Doncs bé, aquest vídeo és un producte del qual podeu estar orgullosos i per t
 
 ### 🎓 Fase Teòrica: Sessió formativa   
 
-> Documentació detallada disponible a: [T06](./T06/fase1.md)
+> Documentació detallada disponible a: [T06](../T06/fase1.md)
 >
 >  Video disponible a: [Video](https://docs.google.com/videos/d/1_QUGD9TEVpigRI_5GcYRTMk0pz4j4arkY4Q5oIzH0X0/edit?usp=sharing)
