@@ -3,7 +3,8 @@
 Aquest repositori recull tota la documentació i recursos per a la implementació d’un **servei de directori LDAP** per a l’entorn de proves d’**Innovatech**, desenvolupat per la consultora **EverPia**. L’objectiu és instal·lar i validar un servei OpenLDAP en un entorn virtualitzat basat en Ubuntu Server.
 
 ## 📘 Documentació completa del projecte 
-Per a la guia detallada d'instal·lació i configuració del servei LDAP, consulta el document següent: [Guia d'Implementació del Servei LDAP](./GUIA.MD)
+Per a la guia detallada d'instal·lació i configuració del servei LDAP, consulta el document següent: 
+[Guia d'Implementació del Servei LDAP](./GUIA.MD)
 
 ---
 
