@@ -10,7 +10,7 @@ El consultor ha de verificar la correcta configuració de la infraestructura vir
 
 **R.INF.01 \-** Configuració de la màquina Server (Server Hostname).
 
-![image1](./image1.png)
+![image1](./IMG/image1.png)
 
 **R.INF.02 \-** Interfície de Xarxa Pública.
 
