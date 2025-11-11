@@ -112,7 +112,7 @@ La Consultora EverPia ha de complir estrictament amb les següents tasques d'ins
 
 ![image1](./IMG/image27.png)![image1]
 
-(./IMG/image28.png)
+!(./IMG/image28.png)
 
 
 
