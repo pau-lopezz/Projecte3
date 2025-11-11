@@ -14,11 +14,11 @@ El consultor ha de verificar la correcta configuració de la infraestructura vir
 
 **R.INF.02 \-** Interfície de Xarxa Pública.
 
-![][image2]
+![image1](./IMG/image2.png)
 
 **R.INF.03 \-** Interfície de Xarxa Privada.
 
-![][image3]
+![image1](./IMG/image3.png)
 
 ---
 
@@ -30,45 +30,45 @@ La Consultora EverPia ha de complir estrictament amb les següents tasques d'ins
 
 **T.LDAP.01 \-** Instal·lació del servei OpenLDAP.
 
-![][image4]
+![image1](./IMG/image4.png)
 
 **T.LDAP.02 \-** Configuració de la base de dades.
 
-![][image5]
+![image1](./IMG/image5.png)
 
 **T.LDAP.03 \-** Configuració de la contrasenya d'administrador.
 
-![][image6]
+![image1](./IMG/image6.png)
 
 **T.LDAP.04 \-** Creació d'Unitats Organitzatives (OU) inicials.
 
-![][image7]
+![image1](./IMG/image7.png)
 
 **T.LDAP.05 \-** Validació de les Unitats Organitzatives.
 
-![][image8]
+![image1](./IMG/image8.png)
 
 #### **3.2. Gestió i Administració (LAM)**
 
 **T.LAM.01 \-** Instal·lació del Gestor d'Usuaris LDAP (LAM).
 
-![][image9]
+![image1](./IMG/image9.png)
 
 **T.LAM.02 \-** Accés Remot i Configuració.
 
-![][image10]
+![image1](./IMG/image10.png)
 
 **T.LAM.03 \-** Configuració per defecte.
 
-![][image11]
+![image1](./IMG/image11.png)
 
 **T.LAM.04 \-** Creació de Grups.
 
-![][image12]
+![image1](./IMG/image12.png)
 
 **T.LAM.05 \-** Creació d'Usuaris de Prova.
 
-![][image13]![][image14]
+![image1](./IMG/image13.png)![image1](./IMG/image14.png)
 
 ---
 
@@ -76,39 +76,39 @@ La Consultora EverPia ha de complir estrictament amb les següents tasques d'ins
 
 **T.CLI.01 \-** Instal·lació del Client.
 
-![][image15]
+![image1](./IMG/image15.png)
 
 **T.CLI.02 \-** Resolució de Noms.
 
-![][image16]
+![image1](./IMG/image16.png)
 
 **T.CLI.03** \- Validació de la Connectivitat LDAP. 
 
-![][image17]
+![image1](./IMG/image17.png)
 
 **T.CLI.04 \-** Mòduls d'Autenticació.
 
-![][image18]
+![image1](./IMG/image18.png)
 
-**![][image19]![][image20]![][image21]**
+**![image1](./IMG/image19.png)![image1](./IMG/image20.png)![image1](./IMG/image21.png)]**
 
 **T.CLI.05 \-** Configuració del Client.
 
-![][image22]
+![image1](./IMG/image22.png)
 
-![][image23]
+![image1](./IMG/image23.png)
 
-![][image24]
+![image1](./IMG/image24.png)
 
 **T.CLI.06 \-** Comprovació del Sistema.
 
-![][image25]
+![image1](./IMG/image25.png)
 
 **T.CLI.07 \-** Prova d'Accés Final.
 
-![][image26]
+![image1](./IMG/image26.png)
 
-![][image27]![][image28]
+![image1](./IMG/image27.png)![image1](./IMG/image28.png)
 
 
 
