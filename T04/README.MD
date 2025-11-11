@@ -3,7 +3,8 @@ Aquest repositori recull tota la documentació i recursos per a la implementaci�
 
 ## 📘 Documentació completa del projecte 
 Per a la guia detallada d'instal·lació i configuració del servei LDAP, consulta el document següent:
-- [Guia d'Implementació del Servei LDAP](./GUIA.MD)
+
+[Guia d'Implementació del Servei LDAP](./GUIA.MD)
 
 ---
 
