@@ -47,6 +47,10 @@ Cada error és una lliçó i cada incidència resolta, una petita victòria. �
 ### 🔹 [**Tasca 04**](T04)    
 ### 🔹 [**Tasca 05**](T05)    
 ### 🔹 [**Tasca 06**](T06)    
+### 🔹 [**Producte 06**](P06)   
+### 🔹 [**Producte 07**](P07)    
+ 
+ 
 
 ---
 
