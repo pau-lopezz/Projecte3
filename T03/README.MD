@@ -13,12 +13,14 @@ Aquí trobareu les guies detallades per a cada plataforma:
 - 🐧 **Linux (LVM amb Zorin OS)**  
 - 🪟 **Windows (Storage Spaces)**  
 
-📄 [Accedeix a les guies](./GUIES/README.md)
+📄 [Accedeix a les guies](./GUIES/README.MD)
 
 ### 2️⃣ `IMG`
 Conté totes les **captures de pantalla, gràfics i imatges** utilitzades a les guies i la documentació.  
 - Inclou demostracions de configuracions, snapshots i estats dels discos.  
 - Organitzat per plataforma per facilitar la navegació.
+
+📂 [Accedeix a les imatges](./IMG/)
 
 ---
 
