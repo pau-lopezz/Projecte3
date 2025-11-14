@@ -15,7 +15,7 @@ En aquesta guia descobriràs com:
 - 📸 Generar snapshots i restaurar-los si cal.  
 - 📈 Ampliar volums amb l’espai lliure disponible, demostrant escalabilitat.  
 
-📄 [Accedeix a la guia Linux](./linux.md)
+📄 [Accedeix a la guia Linux](./LINUX.MD)
 
 ---
 
@@ -30,7 +30,7 @@ Aquesta guia et permetrà:
 - 👀 Monitoritzar l’estat dels discos i del pool des de la consola de Windows.  
 - ⚖ Comparar eficiència d’espai i seguretat de cada configuració.  
 
-📄 [Accedeix a la guia Windows](./windows.md)
+📄 [Accedeix a la guia Windows](./WINDOWS.MD)
 
 
 ---
