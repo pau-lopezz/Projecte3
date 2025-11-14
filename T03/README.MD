@@ -60,10 +60,10 @@ Com a tècnics d’Everpia, el nostre objectiu és **dissenyar i documentar solu
   - **Equip Windows:** Gestió amb Storage Spaces.
 
 - **Procediment:**  
-  1. Cada membre prepara un guió de la tasca, consultant documentació i comandes.  
-  2. Cada parella realitza la seva part de la demostració.  
-  3. Tot el grup revisa la documentació generada.  
-  4. Cada membre puja la seva documentació al seu repositori.
+1. Cada membre prepara un guió de la tasca, consultant documentació i comandes.  
+2. Cada parella realitza la seva part de la demostració.  
+3. Tot el grup revisa la documentació generada.  
+4. Cada membre puja la seva documentació al seu repositori.
 
 - La documentació es farà en **Markdown**, incloent imatges i explicacions, dins d’una carpeta `tasca03`.  
 - L’arxiu `README.md` ha de contenir la descripció general de la tasca i enllaços als documents de Linux i Windows.
