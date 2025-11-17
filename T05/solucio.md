@@ -38,7 +38,7 @@
 
 ![image1](./IMG/image1.png)
 
-# **Fase 2: Analitzar l’entorn real de l’empresa. Microentorn i Macroentorn** {#fase-2:-analitzar-l’entorn-real-de-l’empresa.-microentorn-i-macroentorn}
+# **Fase 2: Analitzar l’entorn real de l’empresa. Microentorn i Macroentorn** 
 
 ## **MACROENTORN:**
 
@@ -67,7 +67,7 @@ I una gran competencia de venta de dispositius a empreses sería, Borax Aliban
 
 **Productes substitutius:** Els productes substitutius de merkia serian els mòbils, ordinadors… més nous, per exemple ara mateix si al iphone 17 baixes al preu 500 euros, doncs aquest podria ser un producte substitutiu.
 
-# **Fase 3: Definir els canvis de l'entorn de l'empresa** {#fase-3:-definir-els-canvis-de-l'entorn-de-l'empresa}
+# **Fase 3: Definir els canvis de l'entorn de l'empresa** 
 
 ## **Canvis en el Macroentorn:** 
 
@@ -93,7 +93,7 @@ Legals: La legislació sobre Residus d'Aparalls Elèctrics i Electrònics (RAEE)
 
 ## 
 
-# **Fase 4: Del món VUCA al món BANI** {#fase-4:-del-món-vuca-al-món-bani}
+# **Fase 4: Del món VUCA al món BANI** 
 
 ## **Anàlisi des de la perspectiva VUCA:**
 
@@ -121,8 +121,7 @@ Legals: La legislació sobre Residus d'Aparalls Elèctrics i Electrònics (RAEE)
 
 # 
 
-# **Fase 5: Fer el CANVAS del model de negoci del vostre client per a definir com l’empresa crea i capta valor i l’ofereix als seus clients** {#fase-5:-fer-el-canvas-del-model-de-negoci-del-vostre-client-per-a-definir-com-l’empresa-crea-i-capta-valor-i-l’ofereix-als-seus-clients}
-
+# **Fase 5: Fer el CANVAS del model de negoci del vostre client per a definir com l’empresa crea i capta valor i l’ofereix als seus clients** 
 ![][image2]
 
 # 
@@ -133,7 +132,7 @@ Legals: La legislació sobre Residus d'Aparalls Elèctrics i Electrònics (RAEE)
 
 # 
 
-# **Fase 6: Descripció de la tipologia i patró del negoci** {#fase-6:-descripció-de-la-tipologia-i-patró-del-negoci}
+# **Fase 6: Descripció de la tipologia i patró del negoci** 
 
 **Tipologia del Negoci:** És una empresa del sector terciari o de serveis, específicament dins del comerç minorista i majorista tecnològic, amb un fort component de logística inversa i serveis de valor afegit (reparació i reciclatge).
 
@@ -164,7 +163,7 @@ Legals: La legislació sobre Residus d'Aparalls Elèctrics i Electrònics (RAEE)
 
 # 
 
-# **Fase 7: Aplicar la intel·ligència artificial al disseny del model de negoci** {#fase-7:-aplicar-la-intel·ligència-artificial-al-disseny-del-model-de-negoci}
+# **Fase 7: Aplicar la intel·ligència artificial al disseny del model de negoci** 
 
 Creiem que a merkia es podria implantar la IA de les següents maneres:
 
@@ -182,11 +181,10 @@ Creiem que a merkia es podria implantar la IA de les següents maneres:
 - Precificació Dinàmica i Predictiva: Una eina d'IA que analitzi en temps real els preus de milers de productes similars a Wallapop, Backmarket i eBay, considerant factors com l'estat, l'època de l'any i la demanda, per suggerir el preu de venda òptim que maximitzi la velocitat de venda i el benefici.  
 - Atenció al Client 24/7: Un chatbot amb IA (com ChatGPT integrat) a la seva pròpia web o xarxes socials per respondre preguntes freqüents sobre garanties, temps de lliurament o compatibilitat d'accessoris, alliberant temps per a les consultes més complexes.
 
-# **Fase 8: DAFO per comprovar la viabilitat potencial del client. Planificació de l’estratègia de futur** {#fase-8:-dafo-per-comprovar-la-viabilitat-potencial-del-client.-planificació-de-l’estratègia-de-futur}
-
+# **Fase 8: DAFO per comprovar la viabilitat potencial del client. Planificació de l’estratègia de futur** 
 ![][image3]
 
-# **Fase 9: L’empresa com a sistema. Àrees funcionals de l’empresa. Funcionament de l’empresa. L’estructura organitzativa de l’empresa.** {#fase-9:-l’empresa-com-a-sistema.-àrees-funcionals-de-l’empresa.-funcionament-de-l’empresa.-l’estructura-organitzativa-de-l’empresa.}
+# **Fase 9: L’empresa com a sistema. Àrees funcionals de l’empresa. Funcionament de l’empresa. L’estructura organitzativa de l’empresa.** 
 
 ## **Àrees Funcionals de l’Empresa:**
 
@@ -298,7 +296,7 @@ Creiem que a merkia es podria implantar la IA de les següents maneres:
 
 # 
 
-# **Fase 10: La cultura empresarial i la imatge corporativa.**  {#fase-10:-la-cultura-empresarial-i-la-imatge-corporativa.}
+# **Fase 10: La cultura empresarial i la imatge corporativa.**  
 
 ## **Cultura Empresarial de Merkia 360**
 
@@ -330,7 +328,7 @@ Creiem que a merkia es podria implantar la IA de les següents maneres:
 
 # 
 
-# **Fase 11: Missió, visió i valors de l’empresa.** {#fase-11:-missió,-visió-i-valors-de-l’empresa.}
+# **Fase 11: Missió, visió i valors de l’empresa.** 
 
 ## **Missió:**
 
@@ -358,7 +356,7 @@ Creiem que a merkia es podria implantar la IA de les següents maneres:
 
 # 
 
-# **Fase 12: Accions concretes i RSC. Balanç social.** {#fase-12:-accions-concretes-i-rsc.-balanç-social.}
+# **Fase 12: Accions concretes i RSC. Balanç social.** 
 
 ## **Accions de RSC (Responsabilitat Social Corporativa)**
 
