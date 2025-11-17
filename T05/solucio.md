@@ -260,7 +260,6 @@ Creiem que a merkia es podria implantar la IA de les següents maneres:
 
 # **DIRECCIÓ/GERÈNCIA**
 
-'
 
    **│**
 
@@ -294,7 +293,6 @@ Creiem que a merkia es podria implantar la IA de les següents maneres:
 
    **└── Responsable de comptabilitat**
 
-'
 
 ---
 
