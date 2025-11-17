@@ -1,13 +1,14 @@
-# 
+
 
 # **Anàlisi de l’entorn**
 
-**MERKIA360**
+## **MERKIA360**
 
-**FET PER: ARAN PEREZ I PAU LÓPEZ**
+## **FET PER: ARAN PEREZ I PAU LÓPEZ**
 
+#
 
-## **Index:** 
+### **Index:** 
 
 Fase 1: Organigrama
 
@@ -33,15 +34,7 @@ Fase 1: Organigrama
 
 [**Fase 12: Accions concretes i RSC. Balanç social.**](#fase-12:-accions-concretes-i-rsc.-balanç-social.)
 
-# 
-
-# 
-
-# 
-
-# 
-
-# 
+---
 
 # **Fase 1: Organigrama**
 
