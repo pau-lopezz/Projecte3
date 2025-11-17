@@ -6,21 +6,6 @@
 
 **FET PER: ARAN PEREZ I PAU LÓPEZ**
 
-## 
-
-## 
-
-## 
-
-## 
-
-## 
-
-## 
-
-## 
-
-## 
 
 ## **Index:** 
 
