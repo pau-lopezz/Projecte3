@@ -196,61 +196,61 @@ Creiem que a merkia es podria implantar la IA de les següents maneres:
 
 ### **Àrea Tècnica i Operativa**
 
-* # Funció: Cor del negoci
+*  Funció: Cor del negoci
 
-* # Responsabilitats:
+*  Responsabilitats:
 
-* # Recepció i classificació de dispositius
+*  Recepció i classificació de dispositius
 
-  * # Diagnòstic tècnic i reparació
+  * - Diagnòstic tècnic i reparació
 
-  * # Control de qualitat i testeig
+  * - Control de qualitat i testeig
 
-  * # Gestió del reciclatge
+  * - Gestió del reciclatge
 
-  * # Manteniment del taller
+  * - Manteniment del taller
 
 ### **Àrea Comercial i de Màrqueting**
 
-* # Funció: Connexió amb el mercat
+*  Funció: Connexió amb el mercat
 
-* # Responsabilitats:
+*  Responsabilitats:
 
-  * # Gestió de plataformes online (Wallapop, Backmarket)
+  * - Gestió de plataformes online (Wallapop, Backmarket)
 
-  * # Atenció al client i postvenda
+  * - Atenció al client i postvenda
 
-  * # Estratègia de preus i ofertes
+  * - Estratègia de preus i ofertes
 
-  * # Comunicació digital i xarxes socials
+  * - Comunicació digital i xarxes socials
 
 ### **Àrea d’Aprovisionament i Logística**
 
-* # Funció: Cicle de materials
+*  Funció: Cicle de materials
 
-* # Responsabilitats:
+*  Responsabilitats:
 
-  * # Relació amb proveïdors d'equipament
+  * - Relació amb proveïdors d'equipament
 
-  * # Gestió d'inventaris
+  * - Gestió d'inventaris
 
-  * # Coordinació d'enviaments
+  * - Coordinació d'enviaments
 
-  * # Relació amb gestors de residus
+  * - Relació amb gestors de residus
 
 ### **Àrea Administrativa i Financera**
 
-* # Funció: Sostenibilitat econòmica
+*  Funció: Sostenibilitat econòmica
 
-* # Responsabilitats:
+*  Responsabilitats:
 
-  * # Control de costos i pressupostos
+  * - Control de costos i pressupostos
 
-  * # Facturació i cobraments
+  * - Facturació i cobraments
 
-  * # Gestió de garanties
+  * - Gestió de garanties
 
-  * # Anàlisi de rendibilitat
+  * - Anàlisi de rendibilitat
 
 # 
 
