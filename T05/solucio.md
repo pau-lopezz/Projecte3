@@ -11,26 +11,27 @@
 
 **Fase 1: Organigrama**
 
-[**Fase 2: Analitzar l’entorn real de l’empresa. Microentorn i Macroentorn**]
+**Fase 2: Analitzar l’entorn real de l’empresa. Microentorn i Macroentorn**
 
-[**Fase 3: Definir els canvis de l'entorn de l'empresa**]
+**Fase 3: Definir els canvis de l'entorn de l'empresa**
 
-[**Fase 4: Del món VUCA al món BANI**]
+**Fase 4: Del món VUCA al món BANI**
 
-[**Fase 5: Fer el CANVAS del model de negoci del vostre client per a definir com l’empresa crea i capta valor i l’ofereix als seus clients**]
+**Fase 5: Fer el CANVAS del model de negoci del vostre client per a definir com l’empresa crea i capta valor i l’ofereix als seus clients**
 
-[**Fase 6: Descripció de la tipologia i patró del negoci**]
-[**Fase 7: Aplicar la intel·ligència artificial al disseny del model de negoci**]
+**Fase 6: Descripció de la tipologia i patró del negoci**
 
-[**Fase 8: DAFO per comprovar la viabilitat potencial del client. Planificació de l’estratègia de futur**]
+**Fase 7: Aplicar la intel·ligència artificial al disseny del model de negoci**
 
-[**Fase 9: L’empresa com a sistema. Àrees funcionals de l’empresa. Funcionament de l’empresa. L’estructura organitzativa de l’empresa.**]
+**Fase 8: DAFO per comprovar la viabilitat potencial del client. Planificació de l’estratègia de futur**
 
-[**Fase 10: La cultura empresarial i la imatge corporativa.**]
+**Fase 9: L’empresa com a sistema. Àrees funcionals de l’empresa. Funcionament de l’empresa. L’estructura organitzativa de l’empresa.**
 
-[**Fase 11: Missió, visió i valors de l’empresa.**]
+**Fase 10: La cultura empresarial i la imatge corporativa.**
 
-[**Fase 12: Accions concretes i RSC. Balanç social.**]
+**Fase 11: Missió, visió i valors de l’empresa.**
+
+**Fase 12: Accions concretes i RSC. Balanç social.**
 
 ---
 
@@ -67,6 +68,8 @@ I una gran competencia de venta de dispositius a empreses sería, Borax Aliban
 
 **Productes substitutius:** Els productes substitutius de merkia serian els mòbils, ordinadors… més nous, per exemple ara mateix si al iphone 17 baixes al preu 500 euros, doncs aquest podria ser un producte substitutiu.
 
+
+
 # **Fase 3: Definir els canvis de l'entorn de l'empresa** 
 
 ## **Canvis en el Macroentorn:** 
@@ -92,6 +95,7 @@ Legals: La legislació sobre Residus d'Aparalls Elèctrics i Electrònics (RAEE)
 ## 
 
 ## 
+
 
 # **Fase 4: Del món VUCA al món BANI** 
 
@@ -121,9 +125,11 @@ Legals: La legislació sobre Residus d'Aparalls Elèctrics i Electrònics (RAEE)
 
 # 
 
-# **Fase 5: Fer el CANVAS del model de negoci del vostre client per a definir com l’empresa crea i capta valor i l’ofereix als seus clients** 
-![][image2]
 
+
+# **Fase 5: Fer el CANVAS del model de negoci del vostre client per a definir com l’empresa crea i capta valor i l’ofereix als seus clients** 
+
+![image5](./IMG/image5.png)
 # 
 
 # 
@@ -182,7 +188,7 @@ Creiem que a merkia es podria implantar la IA de les següents maneres:
 - Atenció al Client 24/7: Un chatbot amb IA (com ChatGPT integrat) a la seva pròpia web o xarxes socials per respondre preguntes freqüents sobre garanties, temps de lliurament o compatibilitat d'accessoris, alliberant temps per a les consultes més complexes.
 
 # **Fase 8: DAFO per comprovar la viabilitat potencial del client. Planificació de l’estratègia de futur** 
-![][image3]
+![image8](./IMG/image8.png)
 
 # **Fase 9: L’empresa com a sistema. Àrees funcionals de l’empresa. Funcionament de l’empresa. L’estructura organitzativa de l’empresa.** 
 
