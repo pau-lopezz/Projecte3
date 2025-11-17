@@ -260,47 +260,43 @@ Creiem que a merkia es podria implantar la IA de les següents maneres:
 
 # **DIRECCIÓ/GERÈNCIA**
 
-#     **│**
+'
 
-#     **├── ÀREA TÈCNICA (Cap de Taller)**
+   **│**
 
-#     **│   ├── Tècnics en reparació**
+   **├── ÀREA TÈCNICA (Cap de Taller)**
 
-#     **│   └── Responsable de qualitat**
+   **│   ├── Tècnics en reparació**
 
-#     **│**
+     **│   └── Responsable de qualitat**
 
-#     **├── ÀREA COMERCIAL (Responsable Comercial)**
+     **│**
 
-#     **│   ├── Gestor de plataformes online**
+    **├── ÀREA COMERCIAL (Responsable Comercial)**
 
-#     **│   └── Atenció al client**
+     **│   ├── Gestor de plataformes online**
 
-#     **│**
+     **│   └── Atenció al client**
 
-#     **├── APROVISIONAMENT I LOGÍSTICA**
+     **│**
 
-#     **│   ├── Comprador/Selector**
+     **├── APROVISIONAMENT I LOGÍSTICA**
 
-#     **│   └── Coordinador logístic**
+    **│   ├── Comprador/Selector**
 
-#     **│**
+     **│   └── Coordinador logístic**
 
-#     **└── ADMINISTRACIÓ I FINANCES**
+    **│**
 
-#         **├── Administratiu**
+   **└── ADMINISTRACIÓ I FINANCES**
 
-#         **└── Responsable de comptabilitat**
+       **├── Administratiu**
 
-# 
+       **└── Responsable de comptabilitat**
 
-# 
+'
 
-# 
-
-# 
-
-# 
+---
 
 # **Fase 10: La cultura empresarial i la imatge corporativa.**  
 
