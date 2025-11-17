@@ -9,7 +9,7 @@
 
 ### **Index:** 
 
-Fase 1: Organigrama
+**Fase 1: Organigrama**
 
 [**Fase 2: Analitzar l’entorn real de l’empresa. Microentorn i Macroentorn**](#fase-2:-analitzar-l’entorn-real-de-l’empresa.-microentorn-i-macroentorn)
 
