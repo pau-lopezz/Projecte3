@@ -268,31 +268,31 @@ Creiem que a merkia es podria implantar la IA de les següents maneres:
 
    **│   ├── Tècnics en reparació**
 
-     **│   └── Responsable de qualitat**
+   **│   └── Responsable de qualitat**
 
-     **│**
+   **│**
 
-    **├── ÀREA COMERCIAL (Responsable Comercial)**
+   **├── ÀREA COMERCIAL (Responsable Comercial)**
 
-     **│   ├── Gestor de plataformes online**
+   **│   ├── Gestor de plataformes online**
 
-     **│   └── Atenció al client**
+   **│   └── Atenció al client**
 
-     **│**
+   **│**
 
-     **├── APROVISIONAMENT I LOGÍSTICA**
+   **├── APROVISIONAMENT I LOGÍSTICA**
 
-    **│   ├── Comprador/Selector**
+   **│   ├── Comprador/Selector**
 
-     **│   └── Coordinador logístic**
+   **│   └── Coordinador logístic**
 
-    **│**
+   **│**
 
    **└── ADMINISTRACIÓ I FINANCES**
 
-       **├── Administratiu**
+   **├── Administratiu**
 
-       **└── Responsable de comptabilitat**
+   **└── Responsable de comptabilitat**
 
 '
 
