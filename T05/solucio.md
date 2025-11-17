@@ -36,7 +36,7 @@
 
 # **Fase 1: Organigrama**
 
-[](/IMG/image1.png)
+![image1](./IMG/image1.png)
 
 # **Fase 2: Analitzar l’entorn real de l’empresa. Microentorn i Macroentorn** {#fase-2:-analitzar-l’entorn-real-de-l’empresa.-microentorn-i-macroentorn}
 
