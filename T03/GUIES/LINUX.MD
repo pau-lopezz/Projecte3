@@ -91,17 +91,17 @@ I si volem fer algun tipus de comprovació per veure que els canvis s’han desa
 
 PVS: Mostra els volums físics creats indicant si estan assignats algun grup de volums.
 
-![image9](../IMG/image9.png)
+![image10](../IMG/image10.png)
 
 
 VGS: Serveix per veure els grups de volums existents i indicant els nombre de volums físics que el formen, els LV definits, l’espai total i l’espai sense assignar.
 
-![image10](../IMG/image10.png)
+![image11](../IMG/image11.png)
 
 
 VGS: Mostra els LV definits amb les seves propietats.
 
-![image11](../IMG/image11.png)
+![image12](../IMG/image12.png)
 
 
 Si en algun cas volem eliminar un volum lògic, només caldria fer dos passos:
@@ -111,7 +111,7 @@ Executar comanda lvremove
 
 Per desmuntar el volum lògic, com us he dit abans, seria amb la comanda: ‘umount /mnt/VolumLogic01’ . Finalment per eliminar un cop desmontat el volum lògic: ‘lvremove /dev/volgrup/VolumLogic01’
 
-![image12](../IMG/image12.png)
+![image13](../IMG/image13.png)
 
 
 
@@ -124,13 +124,13 @@ Per posar-ho en pràctica, crearem una instantània, amb una mida i nom, a part 
 
 comanda: ‘lvcreate -L 100M -s -n copiaVolumLogic01 /dev/volgrup/VolumLogic01’
 
-![image13](../IMG/image13.png)
+![image14](../IMG/image14.png)
 
 
 
 I per veure els dos lv creats i com la còpia apunta al volum original com us he indicat abans, ho realitzarem amb  la comanda: ‘lvs volgrup’
 
-![image14](../IMG/image14.png)
+![image15](../IMG/image15.png)
 
 Un cop haguim vist que la còpia esta creada i ubicada correctament, muntarem la còpia per veure el contingut.
 
@@ -139,16 +139,16 @@ seguident, creem un grup de volums amb dos dels volums físics, amb la comanda i
 
 En el meu cas he tingut que treure’l del grup actual, netejar la informació de el lvm del disc, reinicializarlo com a pv nou i finalment crear el nou grup amb el nom de: vg_mirror com diu la tasca
 
-![image15](../IMG/image15.png)
+![image16](../IMG/image16.png)
 
 Seguidament crearem el sistema del mirror simple amb la comanda anteriorment feta en altres passos: ‘lvcreate -L 90M -m1 -n mirrorlv vg_mirror’ Aqui estem dien que crearem un nou vl, de 90MiB, amb el nom de: mirrorlv.
 
-![image16](../IMG/image16.png)
+![image17](../IMG/image17png)
 
 
 Finalment podrem observar com el volum lògic està format pels miralls introduïts en el pas anterior i dels logs, que serveixen per mantenir la sincronització:
 
-![image17](../IMG/image17.png)
+![image18](../IMG/image18.png)
 
 Podem identificar gràcies a la comanda: ‘lva -a -o +devices’ el nombre de miralls que es vulguin mantenir amb el paràmetre -m a lvcreate.
 
