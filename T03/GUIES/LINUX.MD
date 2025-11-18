@@ -40,3 +40,16 @@ Ara crearem els volums físics amb la comanda: ‘pvcreate’ a partir de les pa
 ![image3](../IMG/image3.png)
 
 Recordatori: Recomano que abans de començar a posar totes les comandes, recomano posar la comanda sudo su, per realitzar totes les comandes amb root així tots els processos seran més ràpids a la hora de realizarlos
+
+#
+
+### 6. Inicialització de discos:
+Seguidament crearem el grup de volums, mitjançant la comanda: ‘vgcreate volgrup’ posteriorment hi podem agregar o eliminar volums. En el meu cas la comanda completa serà: ‘vgcreate volgrup /dev/sdb /dev/sdc /dev/sdd’
+
+![image4](../IMG/image4.png)
+
+I si en algun cas volem afegir algún nou volum en el grup, només haurem d'introduir la comanda: ‘vgextend volgrup nom_disc’
+
+Finalment per veure característiques sobre el grup de volum creat anteriorment ho farem amb la comanda: ‘vgdisplay’ veurem info com el nom del grup, el estat, el format, les àrees que abarca i moltes coses més que les podeu veure en la imatge.
+
+![image5](../IMG/image5.png)
