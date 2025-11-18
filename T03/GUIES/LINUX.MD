@@ -151,3 +151,7 @@ Finalment podrem observar com el volum lògic està format pels miralls introdu�
 ![image17](../IMG/image17.png)
 
 Podem identificar gràcies a la comanda: ‘lva -a -o +devices’ el nombre de miralls que es vulguin mantenir amb el paràmetre -m a lvcreate.
+
+---
+
+**Gràcies per la vostra atenció!**
