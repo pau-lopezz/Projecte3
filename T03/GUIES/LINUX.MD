@@ -22,4 +22,4 @@ Primer de tot haurem de crear una màquina virtual, hi posarem 2 CPUs i 8GB (ja 
 | /dev/sdd | Per snapshots o expansió | **10 GB** |
 
 
-![image1](./IMG/image1.png)
+![image1](../IMG/image1.png)
