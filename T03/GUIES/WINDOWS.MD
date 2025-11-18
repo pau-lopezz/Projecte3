@@ -45,7 +45,7 @@ Ara ja podem veure el disc principal i veurel partit en dos particions en efecte
 
 Ara tancarem la màquina virtual i eliminem un disc de la mateixa manera que abans haviem creat un.
 
-![image9w](../IMG/image9w.png)  [image92](../IMG/image92w.png)
+![image9w](../IMG/image9w.png)  [image92w](../IMG/image92w.png)
 
 
 Ara podem veure que hi ha una partició que no funciona correctament, ja que hem eliminat un disc de la màquina virtual. Ara mirarem si s'ha guardat la informació en l´altre partició, per comprovar si l´efecte mirall s'ha creat correctament.
