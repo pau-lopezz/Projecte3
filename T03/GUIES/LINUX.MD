@@ -67,6 +67,7 @@ Recordo que els volums lògics són com les particions, per tant, per utilitzar-
 1- I ara per muntar un volum lògic parcialment, caldrà utilitzar la comanda ‘mount’ per muntar el volum cap la carpeta creada en l’anterior pas
 
 ![image7](../IMG/image7.png)
+
 PD: Aquesta acció caldria fer-la cada cop al iniciar la máquina.
 
 2- I si volem que el volum logic estigui muntat de forma permanent, cal editar l’arxiu ‘/etc/fstab’
@@ -77,7 +78,9 @@ Copiarem la última línea del codi on podeu veure que he agregat una línia de 
 
 
 Si en algun cas volem ampliar el volum lògic, la mida s’indica amb el paràmetre -L:
+
 ![image9](../IMG/image9.png)
+
 I per ampliar el sistema de fitxers per poder aprofitar la mida extra que anteriorment hem afegit, ho farem amb: ‘resize2fs’
 
 # 
@@ -97,6 +100,7 @@ VGS: Serveix per veure els grups de volums existents i indicant els nombre de vo
 
 
 VGS: Mostra els LV definits amb les seves propietats.
+
 ![image11](../IMG/image11.png)
 
 
