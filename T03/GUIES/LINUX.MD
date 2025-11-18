@@ -143,7 +143,7 @@ En el meu cas he tingut que treure’l del grup actual, netejar la informació d
 
 Seguidament crearem el sistema del mirror simple amb la comanda anteriorment feta en altres passos: ‘lvcreate -L 90M -m1 -n mirrorlv vg_mirror’ Aqui estem dien que crearem un nou vl, de 90MiB, amb el nom de: mirrorlv.
 
-![image17](../IMG/image17png)
+![image17](../IMG/image17.png)
 
 
 Finalment podrem observar com el volum lògic està format pels miralls introduïts en el pas anterior i dels logs, que serveixen per mantenir la sincronització:
