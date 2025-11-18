@@ -20,3 +20,6 @@ Primer de tot haurem de crear una màquina virtual, hi posarem 2 CPUs i 8GB (ja 
 | /dev/sdb | Primer disc per a LVM | **10 GB** |
 | /dev/sdc | Per mirroring | **10 GB** |
 | /dev/sdd | Per snapshots o expansió | **10 GB** |
+
+
+![image1](./IMG/image1)
